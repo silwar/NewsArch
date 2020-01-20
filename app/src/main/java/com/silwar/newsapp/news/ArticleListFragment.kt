@@ -8,7 +8,7 @@ import androidx.fragment.app.Fragment
 import com.silwar.newsapp.R
 
 
-class NewsListFragment : Fragment() {
+class ArticleListFragment : Fragment() {
 
 
     override fun onCreateView(
